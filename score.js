@@ -1,0 +1,5 @@
+function myscore(){
+    myfunction1()
+    
+
+}
